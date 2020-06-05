@@ -1,10 +1,10 @@
 GLOBMAP LAI
    Temperal resolution: monthly
-   Spatial resolution: 0.5¡ã¡Á0.5¡ã
+   Spatial resolution: 0.5Â°Ã—0.5Â°
    Unit: 0.01m2/m2
 
 Global land cover data
-   Spatial resolution: 0.5¡ã¡Á0.5¡ã
+   Spatial resolution: 0.5Â°Ã—0.5Â°
    code: 1. Evergreen Needleleaf Forests
              2. Evergreen Broadleaf Forests
              3. Deciduous Needleleaf Forests
